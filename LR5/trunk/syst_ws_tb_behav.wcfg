@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="syst_ws_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="syst_ws_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="96600fs"></ZoomStartTime>
+      <ZoomEndTime time="353401fs"></ZoomEndTime>
+      <Cursor1Time time="200000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="142"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/syst_ws_tb/clk_i" type="logic">
+      <obj_property name="ElementShortName">clk_i</obj_property>
+      <obj_property name="ObjectShortName">clk_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/syst_ws_tb/rst_i" type="logic">
+      <obj_property name="ElementShortName">rst_i</obj_property>
+      <obj_property name="ObjectShortName">rst_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="group17" type="group">
+      <obj_property name="label">11</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/syst_ws_tb/x1_i" type="array">
+         <obj_property name="ElementShortName">x1_i[7:0]</obj_property>
+         <obj_property name="ObjectShortName">x1_i[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_11/weight_i" type="array">
+         <obj_property name="ElementShortName">weight_i[7:0]</obj_property>
+         <obj_property name="ObjectShortName">weight_i[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_11/psumm_o" type="array">
+         <obj_property name="ElementShortName">psumm_o[16:0]</obj_property>
+         <obj_property name="ObjectShortName">psumm_o[16:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_11/x_o" type="array">
+         <obj_property name="ElementShortName">x_o[7:0]</obj_property>
+         <obj_property name="ObjectShortName">x_o[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group18" type="group">
+      <obj_property name="label">12</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/syst_ws_tb/x2_i" type="array">
+         <obj_property name="ElementShortName">x2_i[7:0]</obj_property>
+         <obj_property name="ObjectShortName">x2_i[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_12/weight_i" type="array">
+         <obj_property name="ElementShortName">weight_i[7:0]</obj_property>
+         <obj_property name="ObjectShortName">weight_i[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_12/psumm_i" type="array">
+         <obj_property name="ElementShortName">psumm_i[16:0]</obj_property>
+         <obj_property name="ObjectShortName">psumm_i[16:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_12/psumm_o" type="array">
+         <obj_property name="ElementShortName">psumm_o[17:0]</obj_property>
+         <obj_property name="ObjectShortName">psumm_o[17:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_12/x_o" type="array">
+         <obj_property name="ElementShortName">x_o[7:0]</obj_property>
+         <obj_property name="ObjectShortName">x_o[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group19" type="group">
+      <obj_property name="label">13</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/syst_ws_tb/x3_i" type="array">
+         <obj_property name="ElementShortName">x3_i[7:0]</obj_property>
+         <obj_property name="ObjectShortName">x3_i[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_13/weight_i" type="array">
+         <obj_property name="ElementShortName">weight_i[7:0]</obj_property>
+         <obj_property name="ObjectShortName">weight_i[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_13/psumm_i" type="array">
+         <obj_property name="ElementShortName">psumm_i[17:0]</obj_property>
+         <obj_property name="ObjectShortName">psumm_i[17:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_13/x_o" type="array">
+         <obj_property name="ElementShortName">x_o[7:0]</obj_property>
+         <obj_property name="ObjectShortName">x_o[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_13/psumm_o" type="array">
+         <obj_property name="ElementShortName">psumm_o[18:0]</obj_property>
+         <obj_property name="ObjectShortName">psumm_o[18:0]</obj_property>
+         <obj_property name="CustomSignalColor">#F0E68C</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/syst_ws_tb/y1_o" type="array">
+      <obj_property name="ElementShortName">y1_o[18:0]</obj_property>
+      <obj_property name="ObjectShortName">y1_o[18:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="group20" type="group">
+      <obj_property name="label">21</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_21/x_i" type="array">
+         <obj_property name="ElementShortName">x_i[7:0]</obj_property>
+         <obj_property name="ObjectShortName">x_i[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_21/weight_i" type="array">
+         <obj_property name="ElementShortName">weight_i[7:0]</obj_property>
+         <obj_property name="ObjectShortName">weight_i[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_21/psumm_o" type="array">
+         <obj_property name="ElementShortName">psumm_o[16:0]</obj_property>
+         <obj_property name="ObjectShortName">psumm_o[16:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_21/x_o" type="array">
+         <obj_property name="ElementShortName">x_o[7:0]</obj_property>
+         <obj_property name="ObjectShortName">x_o[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group21" type="group">
+      <obj_property name="label">22</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_22/x_i" type="array">
+         <obj_property name="ElementShortName">x_i[7:0]</obj_property>
+         <obj_property name="ObjectShortName">x_i[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_22/weight_i" type="array">
+         <obj_property name="ElementShortName">weight_i[7:0]</obj_property>
+         <obj_property name="ObjectShortName">weight_i[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_22/psumm_i" type="array">
+         <obj_property name="ElementShortName">psumm_i[16:0]</obj_property>
+         <obj_property name="ObjectShortName">psumm_i[16:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_22/psumm_o" type="array">
+         <obj_property name="ElementShortName">psumm_o[17:0]</obj_property>
+         <obj_property name="ObjectShortName">psumm_o[17:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_22/x_o" type="array">
+         <obj_property name="ElementShortName">x_o[7:0]</obj_property>
+         <obj_property name="ObjectShortName">x_o[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group22" type="group">
+      <obj_property name="label">23</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_23/x_i" type="array">
+         <obj_property name="ElementShortName">x_i[7:0]</obj_property>
+         <obj_property name="ObjectShortName">x_i[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_23/weight_i" type="array">
+         <obj_property name="ElementShortName">weight_i[7:0]</obj_property>
+         <obj_property name="ObjectShortName">weight_i[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_23/psumm_i" type="array">
+         <obj_property name="ElementShortName">psumm_i[17:0]</obj_property>
+         <obj_property name="ObjectShortName">psumm_i[17:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_23/x_o" type="array">
+         <obj_property name="ElementShortName">x_o[7:0]</obj_property>
+         <obj_property name="ObjectShortName">x_o[7:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/syst_ws_tb/DUT/node_23/psumm_o" type="array">
+         <obj_property name="ElementShortName">psumm_o[18:0]</obj_property>
+         <obj_property name="ObjectShortName">psumm_o[18:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFD700</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/syst_ws_tb/y2_o" type="array">
+      <obj_property name="ElementShortName">y2_o[18:0]</obj_property>
+      <obj_property name="ObjectShortName">y2_o[18:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+</wave_config>
